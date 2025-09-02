@@ -1,0 +1,23 @@
+[
+  {
+    "imgUrl": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "rating": 4.8,
+    "categories": ["Deep Conditioning", "Moisture", "Hair Growth", "Natural Products"],
+    "date": "05/08/2025",
+    "description": "Finally tried the coconut oil deep conditioning treatment. Hair feels softer and more manageable."
+  },
+  {
+    "imgUrl": "https://images.pexels.com/photos/33669506/pexels-photo-33669506.jpeg",
+    "rating": 3.5,
+    "categories": ["Protein Treatment", "Hair Repair", "Salon Visit"],
+    "date": "12/08/2025",
+    "description": "Protein treatment at the salon. Hair feels a bit stiff; might balance with moisture mask next wash."
+  },
+  {
+    "imgUrl": "https://images.pexels.com/photos/33653029/pexels-photo-33653029.jpeg",
+    "rating": 4.5,
+    "categories": ["Protective Style", "Braids", "Scalp Care"],
+    "date": "20/08/2025",
+    "description": "Got box braids installed. Used tea tree oil on scalp before installation."
+  }
+]
