@@ -1,5 +1,5 @@
 // src/components/Header.tsx
-import React from "react";
+//import React from "react";
 
 type Props = {
   label: string;                  // e.g., "September 2025"

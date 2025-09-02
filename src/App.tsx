@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useEffect } from "react";
 import "./styles.css";
 import Header from "./components/Header";
 import Calendar from "./components/Calendar";
@@ -22,7 +22,7 @@ export default function App() {
     const seed: SeedEntry[] = entriesSeed as SeedEntry[];
     loadSeed(seed);
   }, [loadSeed]);
-  
+
   return (
     <div className="app">
       <Header

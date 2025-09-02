@@ -1,4 +1,4 @@
-import React from "react";
+//import React from "react";
 import type { JournalEntry } from "../store/useEntries";
 import { format } from "date-fns";
 

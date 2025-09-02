@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import { useEffect, useRef } from "react";
 import { buildMonthGrid, monthLabel, isSameMonthFast, weekdayLabels, dateKey } from "../lib/date";
 import DayCell from "./DayCell";
 import type { JournalEntry } from "../store/useEntries";
